@@ -6,7 +6,7 @@ HTML, CSS, JavaScript, JSON Server
 
 ## Projects Description:
 
-Modify FlatDango HTML Website with Javascript to acheive deliverables.
+Modify FlatDango HTML Website with Javascript to achieve deliverables.
 
 ### Required Deliverables Done
 
